@@ -18,7 +18,7 @@ Deployment:
 	You may use my URL addresses in each test for practice trials unless otherwise indicated. However, you must receive written permission from me to use my URL addresses or parts of theChrisNutterHub.com for a project or practical application.
 
 Built With:
-	This ongoing project will be implemented with the use of my MacOS, my website: theChrisNutterHub.com, Selenium with Ruby, JMeter, Python, JUnit, and SoapUI.
+	This ongoing project will be implemented with the use of my MacOS, theChrisNutterHub.com, Selenium with Ruby, JMeter, Python, JUnit, and SoapUI.
 
 Authors: Christopher J Nutter
 
