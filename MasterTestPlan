@@ -1,0 +1,179 @@
+Test Plan Template: Hub Test Project
+
+Prepared by: Christopher J Nutter
+
+TABLE OF CONTENTS
+
+	1.0 INTRODUCTION
+
+	2.0 OBJECTIVES 
+
+	3.0 SCOPE
+
+	4.0 Testing Strategy
+
+	5.0 Test Schedule
+
+	6.0 Test Deliverables
+
+	7.0 Acceptance Criteria
+
+1.0 INTRODUCTION
+
+This test series shall gauge the functionality of the main category pages, the Nutrition Facts project, and the Library of Circlaria subdomain of theChrisNutterHub.com (http://www.thechrisnutterhub.com).
+
+2.0 OBJECTIVES
+
+
+	2.1 Category Page Tests
+		2.11 GitHub Profile Navigation
+		2.12 Certificates Page Navigation Load
+		2.13 Certificates Proper Display
+		2.14 Photo Album JavaScript Test
+		2.15 Photo Gallery Hacking
+
+	2.2 Nutrition Fact Project Tests
+		2.21 Category Sorting Navigation
+		2.22 Duplicate Entry User Load
+		2.23 Duplicate Detection
+		2.24 CRUD and Calculate Function Unit Tests
+		2.25 Food Table SQL Injection
+
+	2.3 Library of Circlaria
+		2.31 Remikra Timeline Last Item
+		2.32 Timeline User Load
+		2.33 Timeline Legitimate Last Page
+		2.34 Admin Login Form Test
+		2.35 Unauthorized Text Editing
+
+	2.4 For each test
+		2.41 General Task Conception
+		2.42 Test-writing
+		2.43 Test Implementation
+		2.44 Bug/Problem Recording
+		2.45 Bug/Problem Resolution
+		2.46 Resolution Application/Retesting
+		2.48 Repetition of 2.43 through 2.46 Until Test Passes
+		2.49 Test and Webpage Publication
+		
+3.0 SCOPE
+
+	3.1 Category Page Tests
+		3.11 GitHub Profile Navigation: MacOS, Selenium, Ruby
+		3.12 Certificates Page Navigation Load: MacOS, JMeter
+		3.13 Certificates Proper Display: MacOS, Python
+		3.14 Photo Album JavaScript: MacOS, JUnit
+		3.15 Photo Gallery Hacking: MacOS, SoapUI
+
+	3.2 Nutrition Fact Project Tests
+		3.21 Category Sorting Navigation: MacOS, Selenium, Ruby
+		3.22 Duplicate Entry User Load: MacOS, JMeter
+		3.23 Duplicate Detection: MacOS, Python
+		3.24 CRUD and Calculate Functions: MacOS, JUnit
+		3.25 Food Table SQL Injection: MacOS, SoapUI
+
+	3.3 Library of Circlaria
+		3.31 Remikra Timeline Last Item:: MacOS X, Selenium, Ruby
+		3.32 Timeline User Load: MacOS X, JMeter
+		3.33 Timeline Legitimate Last Page: MacOS X, Python
+		3.34 Admin Login Form: MacOS X, JUnit
+		3.35 Unauthorized Text Editing: MacOS X, SoapUI
+
+4.0 TESTING STRATEGY
+	
+	4.1 UI Testing
+		
+		Definition: The process of testing user interfaces (i.e. webpages) to ensure that they meet standards
+
+		Tools: Selenium WebDriver
+
+	4.2 Load Testing
+		
+		Definition: An example of performance testing (by which an application is tested to see if its performance meets quality standards), load testing gauges an application's ability to handle a high volume of users in a short-term event.
+
+		Tools: JMeter
+
+	4.3 Integration Testing: 
+	
+		Definition: Testing by which individual units are combined and tested as a group
+
+		Tools: Python
+
+	4.4 Unit Testing:
+
+		Definition: Testing by which individual units are tested to ensure they meet quality standards.
+
+		Tools: JUnit
+
+	4.5 Security Testing
+
+		Definition: Definition by which part of or an entirety of an application is tested against software hacking techniques.
+
+		Tools: SoapUI
+
+5.0 Test Schedule: Beginning 25 May
+
+	5.1 Mock Web Environment Setup: 25-26, 29 May; 1-2 June
+
+	5.2 Category Page Test Series: Beginning 3 June
+		5.21 GitHub Profile Navigation: 3-17 June
+			3 June: Environment setup
+			4 June: Idea Conception/Pseudocode
+			5 June: Code Construction
+			9 June: Test Implementation/Bug Report
+			10 June: Bug Resolution 1
+			11 June: Retest 1/Bug Report
+			12 June: Bug Resolution 2
+			15 June: Retest 2/Bug Report
+			16 June: Bug Resolution 3
+			17 June: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+		5.22 Certificates Page Navigation Load: Beginning 22 June
+			22 June: Environment setup
+			23 June: Idea Conception/Pseudocode
+			24 June: Code Construction
+			25 June: Test Implementation/Bug Report
+			26 June: Bug Resolution 1
+			TBA: Retest 1/Bug Report
+			TBA: Bug Resolution 2
+			TBA: Retest 2/Bug Report
+			TBA: Bug Resolution 3
+			TBA: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+		5.23 Certificates Proper Display: TBA
+		5.24 General Page Navigation: TBA
+		5.25 Photo Gallery Hacking: TBA
+
+	5.3 Nutrition Fact Project Test Series: TBA
+
+	5.4 Library of Circlaria Test Series: TBA
+
+6.0 Test Deliverables
+
+	6.1 Test Plan
+	6.2 Test Cases
+	6.3 Bug Reports
+	6.4 Test Summary (date, events recorded)
+
+7.0 Acceptance Criteria
+
+	7.1 Selenium Tests: GitHub Profile Navigation, Category Sorting Navigation, Remikra Timeline Last Item.
+		For each page...
+		Success: Print "Navigation to <link> was a success!"
+		Failure: Print "Driver failed to find the following link: <next_link>."
+		
+	7.2 JMeter Tests: Certificates Page Navigation Load, Duplicate Entry User Load, Timeline User Load
+		Ideal Result: Zero errors produced during the process
+		Acceptable Result: Each user reaches supposed HTML page that does not have errors (or "breaks") 
+
+	7.3 Python Tests:
+		Success: all JSON fields for each unit are filled and that each unit is unique from the others
+		Failure: JSON units contain empty fields or are duplicates of one another
+
+	7.4 JUnit Tests: 
+		Success: "Assert true" statement is thrown for each case that passes
+		Failure: "Assert false" statement is thrown for each case that does not pass
+
+	7.5 SoapUI Tests:
+		Success: The test fails, therefore, a hacker cannot do the acts accordingly to each test case
+		Failure: The test succeeds, therefore, it is possible for a hacker to do the acts accordingly to each test case
