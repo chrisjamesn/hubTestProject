@@ -23,6 +23,8 @@ Getting Started:
 			Next, visit the following URL: https://jmeter.apache.org/download_jmeter.cgi
 				Under the "Binaries" section, download the file ending in .zip. Follow the prompts in the wizard that opens up.
 		Python: https://www.python.org/downloads
+			Make sure to download Python 3.7 or later
+			Before getting started, type into Terminal the following command: pip install -U html2json
 		JUnit: http://junit.org/junit4/ . Under the "Welcome" header, click "Download and Install." Follow the instructions accordingly.
 		SoapUI: https://www.soapui.org/downloads/soapui.html . Select the Open Source option and follow the installation prompts from the downloaded file.
 
