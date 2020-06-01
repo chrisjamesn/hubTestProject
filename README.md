@@ -25,7 +25,9 @@ Getting Started:
 		Python: https://www.python.org/downloads
 			Make sure to download Python 3.7 or later
 			Before getting started, type into Terminal the following command: pip install -U html2json
-		JUnit: http://junit.org/junit4/ . Under the "Welcome" header, click "Download and Install." Follow the instructions accordingly.
+		JUnit, using IntelliJ IDE: https://www.jetbrains.com/idea/download/#section=mac
+			From this URL, download the Community version. The appropriate version of JUnit is included with this installation.
+			If JUnit does not auto-import, refer to this URL: https://www.jetbrains.com/help/idea/configuring-testing-libraries.html. 
 		SoapUI: https://www.soapui.org/downloads/soapui.html . Select the Open Source option and follow the installation prompts from the downloaded file.
 
 Running the Tests:
