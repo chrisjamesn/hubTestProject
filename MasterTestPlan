@@ -134,19 +134,142 @@ This test series shall gauge the functionality of the main category pages, the N
 			24 June: Code Construction
 			25 June: Test Implementation/Bug Report
 			26 June: Bug Resolution 1
-			TBA: Retest 1/Bug Report
-			TBA: Bug Resolution 2
-			TBA: Retest 2/Bug Report
+			07 July: Retest 1/Bug Report
+			08 July: Bug Resolution 2
+			09 July: Retest 2/Bug Report
+			10 July: Bug Resolution 3
+			13 July: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+		5.23 Certificates Proper Display: Beginning 14 July
+			14 July: Environment setup
+			15 July: Idea Conception/Pseudocode
+			20 July: Code Construction
+			21 July: Test Implementation/Bug Report
+			22 July: Bug Resolution 1
+			23 July: Retest 1/Bug Report
+			24 July: Bug Resolution 2
+			29 July: Retest 2/Bug Report
+			30 July: Bug Resolution 3
+			31 July: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+		5.24 Photo Album JavaScript: Beginning 03 August
+			03 August: Environment setup
+			04 August: Idea Conception/Pseudocode
+			05 August: Code Construction
+			06 August: Test Implementation/Bug Report
+			10 August: Bug Resolution 1
+			11 August: Retest 1/Bug Report
+			12 August: Bug Resolution 2
+			13 August: Retest 2/Bug Report
+			14 August: Bug Resolution 3
+			17 August: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+		5.25 Photo Gallery Hacking: Beginning 20 August
+			20 August: Environment setup
+			21 August: Idea Conception/Pseudocode
+			24 August: Code Construction
+			25 August: Test Implementation/Bug Report
+			26 August: Bug Resolution 1
+			27 August: Retest 1/Bug Report
+			28 August: Bug Resolution 2
+			31 August: Retest 2/Bug Report
+			01 September: Bug Resolution 3
+			02 September: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+
+	5.3 Nutrition Fact Project Test Series: Beginning 03 September
+	
+		5.31 Category Sorting Navigation: Beginning 03 September
+			03 September: Environment setup
+			04 September: Idea Conception/Pseudocode
+			07 September: Code Construction
+			08 September: Test Implementation/Bug Report
+			11 September: Bug Resolution 1
+			14 September: Retest 1/Bug Report
+			15 September: Bug Resolution 2
+			16 September: Retest 2/Bug Report
+			17 September: Bug Resolution 3
+			18 September: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+		
+		5.32 Duplicate Entry User Load: Beginning 22 September
+			22 September: Environment setup
+			23 September: Idea Conception/Pseudocode
+			24 September: Code Construction
+			25 September: Test Implementation/Bug Report
+			28 September: Bug Resolution 1
+			29 September: Retest 1/Bug Report
+			30 September: Bug Resolution 2
+			05 October: Retest 2/Bug Report
+			06 October: Bug Resolution 3
+			07 October: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+		
+		5.33 Duplicate Detection: Beginning 08 October
+			08 October: Environment setup
+			09 October: Idea Conception/Pseudocode
+			14 October: Code Construction
+			15 October: Test Implementation/Bug Report
+			16 October: Bug Resolution 1
+			19 October: Retest 1/Bug Report
+			20 October: Bug Resolution 2
+			21 October: Retest 2/Bug Report
+			22 October: Bug Resolution 3
+			26 October: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+		
+		5.34 CRUD and Calculate Function Unit Tests: Beginning 27 October
+			27 October: Environment setup
+			28 October: Idea Conception/Pseudocode
+			29 October: Code Construction
+			30 October: Test Implementation/Bug Report
+			02 November: Bug Resolution 1
+			05 November: Retest 1/Bug Report
+			06 November: Bug Resolution 2
+			09 November: Retest 2/Bug Report
+			10 November: Bug Resolution 3
+			11 November: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+		
+		5.35 Food Table SQL Injection: Beginning 12 November
+			12 November: Environment setup
+			13 November: Idea Conception/Pseudocode
+			16 November: Code Construction
+			17 November: Test Implementation/Bug Report
+			18 November: Bug Resolution 1
+			19 November: Retest 1/Bug Report
+			20 November: Bug Resolution 2
+			23 November: Retest 2/Bug Report
+			24 November: Bug Resolution 3
+			27 November: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+
+	5.4 Library of Circlaria Test Series: Beginning 30 November
+	
+		2.31 Remikra Timeline Last Item: Beginning 30 November
+			30 November: Environment setup
+			01 December: Idea Conception/Pseudocode
+			02 December: Code Construction
+			03 December: Test Implementation/Bug Report
+			04 December: Bug Resolution 1
+			08 December: Retest 1/Bug Report
+			09 December: Bug Resolution 2
+			10 December: Retest 2/Bug Report
+			11 December: Bug Resolution 3
+			14 December: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
+		
+		2.32 Timeline User Load: Beginning 15 December
+			15 December: Environment setup
+			16 December: Idea Conception/Pseudocode
+			21 December: Code Construction
+			22 December: Test Implementation/Bug Report
+			23 December: Bug Resolution 1
+			24 December: Retest 1/Bug Report
+			25 December: Bug Resolution 2
+			30 December: Retest 2/Bug Report
 			TBA: Bug Resolution 3
 			TBA: Retest 3/Bug Report/Publication/Test Reschedule (if necessary)
-
-		5.23 Certificates Proper Display: TBA
-		5.24 General Page Navigation: TBA
-		5.25 Photo Gallery Hacking: TBA
-
-	5.3 Nutrition Fact Project Test Series: TBA
-
-	5.4 Library of Circlaria Test Series: TBA
+		
+		2.33 Timeline Legitimate Last Page: TBA
+		
+		2.34 Admin Login Form Test: TBA
+		
+		2.35 Unauthorized Text Editing: TBA
 
 6.0 Test Deliverables
 
