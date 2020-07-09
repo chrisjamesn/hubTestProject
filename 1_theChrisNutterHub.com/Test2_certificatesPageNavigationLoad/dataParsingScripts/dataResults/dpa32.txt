@@ -1,0 +1,17 @@
+Thirty-Two Users 6-1 Total Elapsed: 225.0
+Thirty-Two Users 6-4 Total Elapsed: 324.5
+Thirty-Two Users 6-2 Total Elapsed: 1173.5
+Thirty-Two Users 6-3 Total Elapsed: 1146.5
+Thirty-Two Users 6-7 Total Elapsed: 1039.0
+Thirty-Two Users 6-6 Total Elapsed: 1191.0
+Thirty-Two Users 6-5 Total Elapsed: 1530.0
+Thirty-Two Users 6-9 Total Elapsed: 1412.5
+Thirty-Two Users 6-8 Total Elapsed: 1782.0
+Thirty-Two Users 6-10 Total Elapsed: 1683.5
+Thirty-Two Users 6-11 Total Elapsed: 1771.0
+Thirty-Two Users 6-13 Total Elapsed: 1771.0
+Thirty-Two Users 6-14 Total Elapsed: 1768.5
+Thirty-Two Users 6-15 Total Elapsed: 1708.5
+Thirty-Two Users 6-12 Total Elapsed: 1910.5
+Thirty-Two Users 6-16 Total Elapsed: 1711.0
+Average Total Elapsed Per Thread: 1384.25
