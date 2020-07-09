@@ -1,0 +1,5 @@
+Eight Users 4-1 Total Elapsed: 134.0
+Eight Users 4-2 Total Elapsed: 141.0
+Eight Users 4-3 Total Elapsed: 136.5
+Eight Users 4-4 Total Elapsed: 122.0
+Average Total Elapsed Per Thread: 133.38
