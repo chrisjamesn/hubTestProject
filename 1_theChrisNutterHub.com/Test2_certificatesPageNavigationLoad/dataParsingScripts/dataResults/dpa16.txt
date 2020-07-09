@@ -1,0 +1,9 @@
+Sixteen Users 5-2 Total Elapsed: 261.5
+Sixteen Users 5-1 Total Elapsed: 405.0
+Sixteen Users 5-4 Total Elapsed: 190.5
+Sixteen Users 5-3 Total Elapsed: 335.5
+Sixteen Users 5-6 Total Elapsed: 235.0
+Sixteen Users 5-5 Total Elapsed: 385.0
+Sixteen Users 5-7 Total Elapsed: 342.5
+Sixteen Users 5-8 Total Elapsed: 301.0
+Average Total Elapsed Per Thread: 307.0
