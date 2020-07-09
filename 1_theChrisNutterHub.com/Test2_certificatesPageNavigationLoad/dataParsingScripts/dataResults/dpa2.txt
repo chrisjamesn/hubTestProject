@@ -1,0 +1,2 @@
+Two Users 2-1 Total Elapsed: 119.0
+Average Total Elapsed Per Thread: 119.0
