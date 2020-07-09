@@ -1,23 +1,23 @@
-timeStamp	elapsed	label	responseCode	responseMessage	threadName	dataType	success	failureMessage	bytes	sentBytes	grpThreads	allThreads	URL	Latency	SampleCount	ErrorCount	IdleTime	Connect
-1593130471041	1434	HTTP Request	200	OK	One User 1-1	text	true		2981959	4386	1	1	http://localhost/theChrisNutterHub.com/certificates.php	116	1	0	0	53
-1593130471041	128	HTTP Request-0	200	OK	One User 1-1	text	true		6742	149	1	1	http://localhost/theChrisNutterHub.com/certificates.php	116	1	0	0	53
-1593130471393	11	HTTP Request-1	200	OK	One User 1-1	text	true		6283	143	1	1	http://localhost/theChrisNutterHub.com/styles.css	11	1	0	0	0
-1593130472199	14	HTTP Request-2	200	OK	One User 1-1	bin	true		156503	213	1	1	http://localhost/theChrisNutterHub.com/certificates/CMS/Drupal8EssentialTraining_1TheBasics_CertificateOfCompletion.jpg	13	1	0	0	0
-1593130472213	13	HTTP Request-3	200	OK	One User 1-1	bin	true		137559	194	1	1	http://localhost/theChrisNutterHub.com/certificates/Java/1_LearningJava_CertificateOfCompletion.jpeg	12	1	0	0	0
-1593130472226	13	HTTP Request-4	200	OK	One User 1-1	bin	true		151763	222	1	1	http://localhost/theChrisNutterHub.com/certificates/JavaScript/2019_03_JavaScript_SecurityEssentials_CertificateOfCompletion.jpg	12	1	0	0	0
-1593130472239	12	HTTP Request-5	200	OK	One User 1-1	bin	true		143929	198	1	1	http://localhost/theChrisNutterHub.com/certificates/PHP/PHPEssentialTraining_CertificateOfCompletion.jpg	12	1	0	0	0
-1593130472251	13	HTTP Request-6	200	OK	One User 1-1	bin	true		162790	218	1	1	http://localhost/theChrisNutterHub.com/certificates/PHP/PHPwithMySQLEssentialTraining_1TheBasics_CertificateOfCompletion.jpg	12	1	0	0	0
-1593130472264	12	HTTP Request-7	200	OK	One User 1-1	bin	true		164850	218	1	1	http://localhost/theChrisNutterHub.com/certificates/PHP/PHPwithMySQLEssentialTraining_2BuildaCMS_CertificateOfCompletion.jpg	12	1	0	0	0
-1593130472276	10	HTTP Request-8	200	OK	One User 1-1	bin	true		158711	221	1	1	http://localhost/theChrisNutterHub.com/certificates/Python/2_PythonforDataScienceEssentialTraining_CertificateOfCompletion.jpeg	10	1	0	0	0
-1593130472286	9	HTTP Request-9	200	OK	One User 1-1	bin	true		145743	208	1	1	http://localhost/theChrisNutterHub.com/certificates/Python/3_Python3EssentialTraining_CertificateOfCompletion.jpeg	9	1	0	0	0
-1593130472295	9	HTTP Request-10	200	OK	One User 1-1	bin	true		135530	188	1	1	http://localhost/theChrisNutterHub.com/certificates/R/4_LearningR_CertificateOfCompletion.jpeg	9	1	0	0	0
-1593130472304	13	HTTP Request-11	200	OK	One User 1-1	bin	true		150139	208	1	1	http://localhost/theChrisNutterHub.com/certificates/SQL/15_SQLEssentialTraining(2014)_CertificateOfCompletion.jpeg	13	1	0	0	0
-1593130472317	11	HTTP Request-12	200	OK	One User 1-1	bin	true		153875	206	1	1	http://localhost/theChrisNutterHub.com/certificates/SQL/AdvancedSQLforDataScientists_CertificateOfCompletion.jpg	10	1	0	0	0
-1593130472328	8	HTTP Request-13	200	OK	One User 1-1	bin	true		147891	200	1	1	http://localhost/theChrisNutterHub.com/certificates/SQL/MySQLEssentialTraining_CertificateOfCompletion.jpg	8	1	0	0	0
-1593130472336	14	HTTP Request-14	200	OK	One User 1-1	bin	true		147881	210	1	1	http://localhost/theChrisNutterHub.com/certificates/Technical/10_LearningDataGovernance_CertificateOfCompletion.jpeg	13	1	0	0	0
-1593130472350	20	HTTP Request-15	200	OK	One User 1-1	bin	true		178052	223	1	1	http://localhost/theChrisNutterHub.com/certificates/Technical/11_DataScienceFoundations_Fundamentals_CertificateOfCompletion.jpeg	19	1	0	0	0
-1593130472370	56	HTTP Request-16	200	OK	One User 1-1	bin	true		185903	256	1	1	http://localhost/theChrisNutterHub.com/certificates/Technical/12_DataScienceandAnalyticsCareerPathsandCertifications_FirstSteps(2016)_CertificateOfCompletion.jpeg	55	1	0	0	0
-1593130472426	12	HTTP Request-17	200	OK	One User 1-1	bin	true		154711	217	1	1	http://localhost/theChrisNutterHub.com/certificates/Technical/13_UserExperienceforWebDesigners_CertificateOfCompletion.jpeg	12	1	0	0	0
-1593130472438	12	HTTP Request-18	200	OK	One User 1-1	bin	true		168320	235	1	1	http://localhost/theChrisNutterHub.com/certificates/Technical/14_WebDevelopmentFoundations_Full-StackvsFront-End_CertificateOfCompletion.jpeg	12	1	0	0	0
-1593130472450	12	HTTP Request-19	200	OK	One User 1-1	bin	true		159142	223	1	1	http://localhost/theChrisNutterHub.com/certificates/Technical/16_ProgrammingFoundations_Fundamentals_CertificateOfCompletion.jpeg	12	1	0	0	0
-1593130472463	12	HTTP Request-20	200	OK	One User 1-1	bin	true		165642	236	1	1	http://localhost/theChrisNutterHub.com/certificates/softwareQATesting/01_ProgrammingFoundations_SoftwareTesting_QA_CertificateOfCompletion.jpg	11	1	0	0	0
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,SampleCount,ErrorCount,IdleTime,Connect
+1593130471041,1434,HTTP Request,200,OK,One User 1-1,text,true,,2981959,4386,1,1,http://localhost/theChrisNutterHub.com/certificates.php,116,1,0,0,53
+1593130471041,128,HTTP Request-0,200,OK,One User 1-1,text,true,,6742,149,1,1,http://localhost/theChrisNutterHub.com/certificates.php,116,1,0,0,53
+1593130471393,11,HTTP Request-1,200,OK,One User 1-1,text,true,,6283,143,1,1,http://localhost/theChrisNutterHub.com/styles.css,11,1,0,0,0
+1593130472199,14,HTTP Request-2,200,OK,One User 1-1,bin,true,,156503,213,1,1,http://localhost/theChrisNutterHub.com/certificates/CMS/Drupal8EssentialTraining_1TheBasics_CertificateOfCompletion.jpg,13,1,0,0,0
+1593130472213,13,HTTP Request-3,200,OK,One User 1-1,bin,true,,137559,194,1,1,http://localhost/theChrisNutterHub.com/certificates/Java/1_LearningJava_CertificateOfCompletion.jpeg,12,1,0,0,0
+1593130472226,13,HTTP Request-4,200,OK,One User 1-1,bin,true,,151763,222,1,1,http://localhost/theChrisNutterHub.com/certificates/JavaScript/2019_03_JavaScript_SecurityEssentials_CertificateOfCompletion.jpg,12,1,0,0,0
+1593130472239,12,HTTP Request-5,200,OK,One User 1-1,bin,true,,143929,198,1,1,http://localhost/theChrisNutterHub.com/certificates/PHP/PHPEssentialTraining_CertificateOfCompletion.jpg,12,1,0,0,0
+1593130472251,13,HTTP Request-6,200,OK,One User 1-1,bin,true,,162790,218,1,1,http://localhost/theChrisNutterHub.com/certificates/PHP/PHPwithMySQLEssentialTraining_1TheBasics_CertificateOfCompletion.jpg,12,1,0,0,0
+1593130472264,12,HTTP Request-7,200,OK,One User 1-1,bin,true,,164850,218,1,1,http://localhost/theChrisNutterHub.com/certificates/PHP/PHPwithMySQLEssentialTraining_2BuildaCMS_CertificateOfCompletion.jpg,12,1,0,0,0
+1593130472276,10,HTTP Request-8,200,OK,One User 1-1,bin,true,,158711,221,1,1,http://localhost/theChrisNutterHub.com/certificates/Python/2_PythonforDataScienceEssentialTraining_CertificateOfCompletion.jpeg,10,1,0,0,0
+1593130472286,9,HTTP Request-9,200,OK,One User 1-1,bin,true,,145743,208,1,1,http://localhost/theChrisNutterHub.com/certificates/Python/3_Python3EssentialTraining_CertificateOfCompletion.jpeg,9,1,0,0,0
+1593130472295,9,HTTP Request-10,200,OK,One User 1-1,bin,true,,135530,188,1,1,http://localhost/theChrisNutterHub.com/certificates/R/4_LearningR_CertificateOfCompletion.jpeg,9,1,0,0,0
+1593130472304,13,HTTP Request-11,200,OK,One User 1-1,bin,true,,150139,208,1,1,http://localhost/theChrisNutterHub.com/certificates/SQL/15_SQLEssentialTraining(2014)_CertificateOfCompletion.jpeg,13,1,0,0,0
+1593130472317,11,HTTP Request-12,200,OK,One User 1-1,bin,true,,153875,206,1,1,http://localhost/theChrisNutterHub.com/certificates/SQL/AdvancedSQLforDataScientists_CertificateOfCompletion.jpg,10,1,0,0,0
+1593130472328,8,HTTP Request-13,200,OK,One User 1-1,bin,true,,147891,200,1,1,http://localhost/theChrisNutterHub.com/certificates/SQL/MySQLEssentialTraining_CertificateOfCompletion.jpg,8,1,0,0,0
+1593130472336,14,HTTP Request-14,200,OK,One User 1-1,bin,true,,147881,210,1,1,http://localhost/theChrisNutterHub.com/certificates/Technical/10_LearningDataGovernance_CertificateOfCompletion.jpeg,13,1,0,0,0
+1593130472350,20,HTTP Request-15,200,OK,One User 1-1,bin,true,,178052,223,1,1,http://localhost/theChrisNutterHub.com/certificates/Technical/11_DataScienceFoundations_Fundamentals_CertificateOfCompletion.jpeg,19,1,0,0,0
+1593130472370,56,HTTP Request-16,200,OK,One User 1-1,bin,true,,185903,256,1,1,http://localhost/theChrisNutterHub.com/certificates/Technical/12_DataScienceandAnalyticsCareerPathsandCertifications_FirstSteps(2016)_CertificateOfCompletion.jpeg,55,1,0,0,0
+1593130472426,12,HTTP Request-17,200,OK,One User 1-1,bin,true,,154711,217,1,1,http://localhost/theChrisNutterHub.com/certificates/Technical/13_UserExperienceforWebDesigners_CertificateOfCompletion.jpeg,12,1,0,0,0
+1593130472438,12,HTTP Request-18,200,OK,One User 1-1,bin,true,,168320,235,1,1,http://localhost/theChrisNutterHub.com/certificates/Technical/14_WebDevelopmentFoundations_Full-StackvsFront-End_CertificateOfCompletion.jpeg,12,1,0,0,0
+1593130472450,12,HTTP Request-19,200,OK,One User 1-1,bin,true,,159142,223,1,1,http://localhost/theChrisNutterHub.com/certificates/Technical/16_ProgrammingFoundations_Fundamentals_CertificateOfCompletion.jpeg,12,1,0,0,0
+1593130472463,12,HTTP Request-20,200,OK,One User 1-1,bin,true,,165642,236,1,1,http://localhost/theChrisNutterHub.com/certificates/softwareQATesting/01_ProgrammingFoundations_SoftwareTesting_QA_CertificateOfCompletion.jpg,11,1,0,0,0
